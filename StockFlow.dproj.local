@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/03/23 18:29:13.000.048,=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/03/23 18:48:48.000.351,=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/03/23 19:36:00.000.908,=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/03/23 19:36:17.000.826,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\UStockFlow.pas</Transaction>
+    <Transaction>2025/03/23 19:36:17.000.826,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\UStockFlow.dfm</Transaction>
+    <Transaction>2025/03/23 19:36:44.000.196,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\UStockFlow.dfm=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\UStockFlow.dfm</Transaction>
+    <Transaction>2025/03/23 19:36:44.000.196,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\UStockFlow.pas=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\UStockFlow.pas</Transaction>
+    <Transaction>2025/03/23 19:36:45.000.650,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\Project1.dproj</Transaction>
+    <Transaction>2025/03/23 19:37:36.000.422,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\Project1.dproj=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\StockFlow.exe.dproj</Transaction>
+    <Transaction>2025/03/23 19:37:47.000.871,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\StockFlow.exe.dproj=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\StockFlow.dproj</Transaction>
+    <Transaction>2025/03/23 19:38:29.000.938,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\StockFlow.dproj=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\StockFlow.dproj</Transaction>
+    <Transaction>2025/03/23 19:46:12.000.040,=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\Unit1.pas</Transaction>
+    <Transaction>2025/03/23 19:48:34.000.737,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\Unit1.pas=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\DataModule\UdtmConexao.pas</Transaction>
+    <Transaction>2025/03/23 19:48:34.000.737,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\Unit1.dfm=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\DataModule\UdtmConexao.dfm</Transaction>
+    <Transaction>2025/03/23 19:48:39.000.011,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\StockFlow.dproj=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\StockFlow.dproj</Transaction>
+    <Transaction>2025/03/23 20:01:30.000.235,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\StockFlow.dproj=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\StockFlow.dproj</Transaction>
+    <Transaction>2025/03/23 20:15:36.000.214,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\DataModule\UdtmConexao.pas=</Transaction>
+    <Transaction>2025/03/23 20:15:57.000.626,=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\Unit1.pas</Transaction>
+    <Transaction>2025/03/23 20:16:18.000.426,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\Unit1.dfm=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\DataModule\UdtmConexao.dfm</Transaction>
+    <Transaction>2025/03/23 20:16:18.000.426,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\Unit1.pas=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\DataModule\UdtmConexao.pas</Transaction>
+    <Transaction>2025/03/23 20:41:15.000.003,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\DataModule\uDTMConexao.pas=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\DataModule\uDTMMConexao.pas</Transaction>
+    <Transaction>2025/03/23 20:41:15.000.003,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\DataModule\uDTMConexao.dfm=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\DataModule\uDTMMConexao.dfm</Transaction>
+    <Transaction>2025/03/23 20:41:23.000.599,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\DataModule\uDTMMConexao.dfm=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\DataModule\uDTMConexao.dfm</Transaction>
+    <Transaction>2025/03/23 20:41:23.000.599,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\DataModule\uDTMMConexao.pas=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\DataModule\uDTMConexao.pas</Transaction>
+    <Transaction>2025/03/23 20:41:32.000.231,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\uStockFlow.pas=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\uUStockFlow.pas</Transaction>
+    <Transaction>2025/03/23 20:41:32.000.231,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\uStockFlow.dfm=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\uUStockFlow.dfm</Transaction>
+    <Transaction>2025/03/23 20:41:39.000.017,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\uUStockFlow.dfm=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\uStockFlow.dfm</Transaction>
+    <Transaction>2025/03/23 20:41:39.000.017,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\uUStockFlow.pas=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\uStockFlow.pas</Transaction>
+    <Transaction>2025/03/23 20:58:17.000.916,=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\Unit1.pas</Transaction>
+    <Transaction>2025/03/23 20:58:38.000.672,=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\Unit1.pas</Transaction>
+    <Transaction>2025/03/23 20:59:28.000.504,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\Heranca\uTelaHeranca.dfm=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\Unit1.dfm</Transaction>
+    <Transaction>2025/03/23 20:59:28.000.504,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\Heranca\uTelaHeranca.pas=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\Unit1.pas</Transaction>
+    <Transaction>2025/03/23 21:31:46.000.258,=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\Unit1.pas</Transaction>
+    <Transaction>2025/03/23 21:32:14.000.467,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\cadastro\uCadCategoria.dfm=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\Unit1.dfm</Transaction>
+    <Transaction>2025/03/23 21:32:14.000.467,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\cadastro\uCadCategoria.pas=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\Unit1.pas</Transaction>
+    <Transaction>2025/03/26 22:12:02.000.322,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\StockFlow.dproj=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\StockFlow.dproj</Transaction>
+    <Transaction>2025/03/26 22:55:41.000.573,=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\Unit1.pas</Transaction>
+    <Transaction>2025/03/26 22:56:00.000.383,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\Unit1.pas=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\UEnum.pas</Transaction>
+    <Transaction>2025/04/07 22:21:48.000.710,=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\Unit1.pas</Transaction>
+    <Transaction>2025/04/07 22:23:20.000.465,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\cadastro\uCadPessoa.pas=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\Unit1.pas</Transaction>
+    <Transaction>2025/04/07 22:23:20.000.465,C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\cadastro\uCadPessoa.dfm=C:\Users\bryan\OneDrive\Documentos\Embarcadero\Studio\Projects\StockFlow\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

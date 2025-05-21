@@ -1,0 +1,20 @@
+object dtmPrincipal: TdtmPrincipal
+  Height = 480
+  Width = 640
+  object conexaoDB: TZConnection
+    ControlsCodePage = cCP_UTF16
+    Catalog = ''
+    Properties.Strings = (
+      'RawStringEncoding=DB_CP')
+    SQLHourGlass = True
+    DisableSavepoints = False
+    HostName = ''
+    Port = 0
+    Database = ''
+    User = ''
+    Password = ''
+    Protocol = ''
+    Left = 568
+    Top = 16
+  end
+end

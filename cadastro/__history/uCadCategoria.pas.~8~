@@ -1,0 +1,50 @@
+unit uCadCategoria;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, uTelaHeranca, Data.DB,
+  ZAbstractRODataset, ZAbstractDataset, ZDataset, Vcl.Buttons, Vcl.DBCtrls,
+  Vcl.Grids, Vcl.DBGrids, Vcl.StdCtrls, Vcl.Mask, Vcl.ExtCtrls, Vcl.ComCtrls;
+
+type
+  TfrmCadCategoria = class(TfrmTelaHeranca)
+    qryListagemcd_categoria: TZUnicodeStringField;
+    qryListagemds_categoria: TZUnicodeStringField;
+    edtCdCategoria: TLabeledEdit;
+    edtDsCategoria: TLabeledEdit;
+    procedure FormCreate(Sender: TObject);
+    procedure btnSalvarClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmCadCategoria: TfrmCadCategoria;
+
+implementation
+
+{$R *.dfm}
+
+procedure TfrmCadCategoria.btnSalvarClick(Sender: TObject);
+begin
+  if edtDsCategoria.Text = EmptyStr then
+    begin
+      ShowMessage('Este campo é obrigatório!');
+      edtDsCategoria.SetFocus;
+      abort;
+    end;
+
+  inherited;
+end;
+
+procedure TfrmCadCategoria.FormCreate(Sender: TObject);
+begin
+  inherited;
+  IndiceAtual := 'cd_categoria';
+end;
+
+end.

@@ -1,0 +1,83 @@
+inherited frmCadCategoria: TfrmCadCategoria
+  Caption = 'CADASTRO DE CATEGORIAS'
+  StyleElements = [seFont, seClient, seBorder]
+  TextHeight = 15
+  inherited pgcPrincipal: TPageControl
+    inherited tabListagem: TTabSheet
+      inherited pnlListagemTopo: TPanel
+        Anchors = [akLeft, akTop, akRight, akBottom]
+        StyleElements = [seFont, seClient, seBorder]
+        inherited lblIndice: TLabel
+          StyleElements = [seFont, seClient, seBorder]
+        end
+        inherited mskPesquisar: TMaskEdit
+          StyleElements = [seFont, seClient, seBorder]
+        end
+      end
+      inherited grdListagem: TDBGrid
+        Columns = <
+          item
+            Expanded = False
+            FieldName = 'cd_categoria'
+            Width = 120
+            Visible = True
+          end
+          item
+            Expanded = False
+            FieldName = 'ds_categoria'
+            Width = 350
+            Visible = True
+          end>
+      end
+    end
+    inherited tabManutencao: TTabSheet
+      object edtCdCategoria: TLabeledEdit
+        Left = 24
+        Top = 40
+        Width = 121
+        Height = 23
+        EditLabel.Width = 39
+        EditLabel.Height = 15
+        EditLabel.Caption = 'C'#243'digo'
+        MaxLength = 6
+        NumbersOnly = True
+        TabOrder = 0
+        Text = ''
+      end
+      object edtDsCategoria: TLabeledEdit
+        Left = 24
+        Top = 104
+        Width = 500
+        Height = 23
+        EditLabel.Width = 51
+        EditLabel.Height = 15
+        EditLabel.Caption = 'Descri'#231#227'o'
+        MaxLength = 255
+        TabOrder = 1
+        Text = ''
+      end
+    end
+  end
+  inherited pnlRodape: TPanel
+    StyleElements = [seFont, seClient, seBorder]
+    inherited btnNavigator: TDBNavigator
+      Hints.Strings = ()
+    end
+  end
+  inherited qryListagem: TZQuery
+    SQL.Strings = (
+      'select cd_categoria, ds_categoria from sistema.categoria;')
+    object qryListagemcd_categoria: TZUnicodeStringField
+      DisplayLabel = 'C'#243'digo'
+      FieldName = 'cd_categoria'
+      Required = True
+      Size = 6
+    end
+    object qryListagemds_categoria: TZUnicodeStringField
+      DisplayLabel = 'Descri'#231#227'o'
+      FieldName = 'ds_categoria'
+      Required = True
+      Size = 255
+    end
+  end
+end
